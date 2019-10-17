@@ -9,7 +9,7 @@ title: Photonom
 </p>
 -->
 
-Project Specifications: -not available-
+Project Specifications: [pdf](1_Specifications.pdf)
 
 Analysis Report: -not available-
 
