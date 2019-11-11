@@ -11,7 +11,7 @@ title: Photonom
 
 Project Specifications: [pdf](1_Specifications.pdf)
 
-Analysis Report: -not available-
+Analysis Report: [pdf](2_Analysis.pdf)
 
 High-Level Design Report: -not available-
 
