@@ -13,7 +13,7 @@ Project Specifications: [pdf](1_Specifications.pdf)
 
 Analysis Report: [pdf](2_Analysis.pdf)
 
-High-Level Design Report: -not available-
+High-Level Design Report: [pdf](3_HighLevelDesign.pdf)
 
 Low-Level Design Report: -not available-
 
