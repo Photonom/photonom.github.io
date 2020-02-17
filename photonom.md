@@ -15,7 +15,7 @@ Analysis Report: [pdf](2_Analysis.pdf)
 
 High-Level Design Report: [pdf](3_HighLevelDesign.pdf)
 
-Low-Level Design Report: -not available-
+Low-Level Design Report: [pdf](4_LowLevelDesign.pdf)
 
 Final Report: -not available-
 
