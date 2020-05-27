@@ -17,6 +17,6 @@ High-Level Design Report: [pdf](3_HighLevelDesign.pdf)
 
 Low-Level Design Report: [pdf](4_LowLevelDesign.pdf)
 
-Final Report: -not available-
+Final Report: [pdf](5_Final.pdf)
 
-User Manual: -not available-
+User Manual: attached to Final Report
